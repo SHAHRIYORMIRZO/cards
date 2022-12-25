@@ -37,7 +37,7 @@
     overflow: hidden;
     margin: 10px;
     position: relative;
-    transition: flex 0.7s ease-in;
+    transition: flex 1s linear;
 }
 
 .panel h3 {
